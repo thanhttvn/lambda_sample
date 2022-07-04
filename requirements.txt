@@ -1,0 +1,5 @@
+pandas
+pyodbc
+awswrangler
+SQLAlchemy
+cx_Oracle
